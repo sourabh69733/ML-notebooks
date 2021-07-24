@@ -30,4 +30,3 @@ Algorithms are SVM (it is very slow), Decision Tree and Light GBM. Highest accur
 * Pandas
 * Matplotlib
 * Seaborn
-other libraries are also present but used as much as above.
